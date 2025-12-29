@@ -15,7 +15,7 @@
 
 </div>
 
-Currently building powerful AI models with XGboost, Nueral Networks, and Large
+Currently building powerful AI models with XGboost, Neural Networks, and Large
 Language Models (LLMs) to provide value in business and sports.
 
 Click [here](https://mappy92.github.io/) to explore my professional work. <!-- Replace with your
