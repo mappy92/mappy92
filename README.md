@@ -32,8 +32,10 @@ actual portfolio link -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; &nbsp; &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mappy92&layout=compact)
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mappy92&layout=compact" alt="Most Used Languages">
+</p>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mappy92&show_icons=true) -->
 
 
