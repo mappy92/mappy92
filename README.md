@@ -34,7 +34,7 @@ actual portfolio link -->
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mappy92&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mappy92&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mappy92&show_icons=true) -->
 
 
 <!-- Add more tools and technologies as needed -->
