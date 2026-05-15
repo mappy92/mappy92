@@ -18,8 +18,6 @@
 Currently building powerful AI models with XGboost, Neural Networks, and Large
 Language Models (LLMs) to provide value in business and sports.
 
-Click [here](https://mappy92.github.io/) to explore my professional work. <!-- Replace with your
-actual portfolio link -->
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
