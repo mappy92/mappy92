@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/mappy92/mappy92/master/readme_header.gif "Header")
- <p align="center">Hi, I'm Manpreet Singh 👋. I am a Data Scientist.</p>
+ <p align="center">Hi, I'm Manpreet Singh 👋. I am a Data Analyst.</p>
 
 <div align="center">
 
