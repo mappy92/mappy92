@@ -15,8 +15,7 @@
 
 </div>
 
-Currently building powerful AI models with XGboost, Neural Networks, and Large
-Language Models (LLMs) to provide value in business and sports.
+Currently focused on building insightful Power BI and Tableau dashboards and conducting exploratory and financial data analysis using Azure and modern analytics tools to transform complex data into actionable business insights.
 
 
 ## Languages and Tools:
